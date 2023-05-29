@@ -1,0 +1,6 @@
+projectKey=MyJavaProject
+serverUrl=http://localhost:9000
+serverVersion=10.0.0.68432
+dashboardUrl=http://localhost:9000/dashboard?id=MyJavaProject
+ceTaskId=AYhmhGPQ02eqxQJpAl1i
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYhmhGPQ02eqxQJpAl1i
